@@ -1,0 +1,7 @@
+C:\Users\jhona\Desktop\POO U5\ArchivosBinarios\bin\Debug\ArchivosBinarios.exe.config
+C:\Users\jhona\Desktop\POO U5\ArchivosBinarios\bin\Debug\ArchivosBinarios.exe
+C:\Users\jhona\Desktop\POO U5\ArchivosBinarios\bin\Debug\ArchivosBinarios.pdb
+C:\Users\jhona\Desktop\POO U5\ArchivosBinarios\obj\Debug\ArchivosBinarios.csproj.AssemblyReference.cache
+C:\Users\jhona\Desktop\POO U5\ArchivosBinarios\obj\Debug\ArchivosBinarios.csproj.CoreCompileInputs.cache
+C:\Users\jhona\Desktop\POO U5\ArchivosBinarios\obj\Debug\ArchivosBinarios.exe
+C:\Users\jhona\Desktop\POO U5\ArchivosBinarios\obj\Debug\ArchivosBinarios.pdb
